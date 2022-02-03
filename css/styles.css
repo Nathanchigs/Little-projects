@@ -1,0 +1,44 @@
+body {
+  background-color: #FFFF00;
+  max-width:960px;
+  margin:auto;
+  font-family:Lucida bright;
+  border: 2px solid;
+  border-color: #000000;
+  border-radius: 3px;
+  font-family: Algerian;
+}
+
+hr{
+  background-color: white;
+  border-style: none;
+  border-top: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+h1{
+  text-align: center;
+  color: #000000;
+}
+h3{
+  color: #000000;
+}
+title{
+  color:#000000;
+}
+table {
+  border-spacing: 20px;
+}
+td {
+  text-align: center;
+}
+th{
+  color: #808080;
+}
+a{
+  color: #808080;
+}
+p{
+  color: #000000;
+}
